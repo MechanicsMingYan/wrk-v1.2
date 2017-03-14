@@ -130,7 +130,7 @@ ALTERNATIVELY
 NOTE ABOUT <ARCH>
 
 Batch files Build.bat, Rebuild.bat, Clean.bat, WRKEnv.bat and WRKDebug.bat 
-take one parameter – target architecture, which is x86 or amd64.
+take one parameter â€“ target architecture, which is x86 or amd64.
  
 For the first use of either of these batch files, default target architecture 
 is x86.
@@ -140,9 +140,14 @@ cannot be changed for current console window, and <arch> parameter of the
 batch files is ignored.
 
 The title of the window where the WRK environment has been set to some target 
-architecture changes to “WRK x86” or “WRK amd64”.
+architecture changes to â€œWRK x86â€ or â€œWRK amd64â€.
 
 To work with different target architecture, open another console window. 
 -----------------------------------------------------------------------------
 
 ***
+
+
+
+Documents related:
+https://wrktools.codeplex.com/
